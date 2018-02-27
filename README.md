@@ -21,6 +21,6 @@ An optimal air system for Home and Business.
 * [Air Quality Experiments]
 ----
 #### Mastery of [Inter-Modular Board Communication] Experimentation with Two(more) Electronical Controller Boards, Sensors - Wifi/Ethernet/IR 
-* [IR Experiments]
-* [Ethernet Experiments]
-* [Wifi Experiments]
+* [[IR Experiments]]
+* [[Ethernet Experiments]]
+* [[Wifi Experiments]]
