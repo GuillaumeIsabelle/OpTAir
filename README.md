@@ -9,7 +9,10 @@ An optimal air system for Home and Business.
 
 ----
 # Prototyping Action Steps
-## First version combining the Experimentation
+## First version combining Experimentations
+### Optimal Air Quality : (Venting Out bad air)
+### Optimal Temperature : (Heat or stop venting if temperature bellow preference)
+### Optimal Humidity    : (Humidify or Dry)
 ----
 # Mastery Action Steps
 ## Mastery Experimentation with Various Electronical Controller Boards and Sensors
