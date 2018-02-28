@@ -22,5 +22,5 @@ An optimal air system for Home and Business.
 ----
 #### Mastery of [Inter-Modular Board Communication] Experimentation with Two(more) Electronical Controller Boards, Sensors - Wifi/Ethernet/IR 
 * [IR Experiments](https://github.com/GuillaumeIsabelle/OpTAir/wiki/IR-Experiments)
-* [Ethernet Experiments](/OpTAir/wiki/Ethernet-Experiments)
-* [Wifi Experiments]
+* [Ethernet Experiments](https://github.com/GuillaumeIsabelle/OpTAir/wiki/Ethernet-Experiments)
+* [Wifi Experiments](https://github.com/GuillaumeIsabelle/OpTAir/wiki/Wifi-Experiments)
