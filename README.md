@@ -15,10 +15,10 @@ An optimal air system for Home and Business.
 * Optimal Humidity    : (Humidify or Dry)
 ----
 # Mastery Action Steps
-#### Mastery Experimentation with Various Electronical Controller Boards and Sensors
-* [Temperature Experiments]
-* [Humidity Experiments]
-* [Air Quality Experiments]
+#### [Mastery Experimentations](https://github.com/GuillaumeIsabelle/OpTAir/wiki/Mastery-Experimentations) with Various Electronical Controller Boards and Sensors
+* [Temperature Experiments](https://github.com/GuillaumeIsabelle/OpTAir/wiki/Temperature-Experiments)
+* [Humidity Experiments](https://github.com/GuillaumeIsabelle/OpTAir/wiki/Humidity-Experiments)
+* [Air Quality Experiments](https://github.com/GuillaumeIsabelle/OpTAir/wiki/Air-Quality-Experiments)
 ----
 #### Mastery of [Inter-Modular Board Communication] Experimentation with Two(more) Electronical Controller Boards, Sensors - Wifi/Ethernet/IR 
 * [IR Experiments](https://github.com/GuillaumeIsabelle/OpTAir/wiki/IR-Experiments)
